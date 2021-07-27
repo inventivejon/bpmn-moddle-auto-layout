@@ -4,7 +4,7 @@
   "description": "Layout BPMN diagrams, generating missing DI information",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
-  "umd:main": "dist/bpmn-moddle.umd.js",
+  "umd:main": "dist/bpmn-auto-layout.umd.js",
   "source": "index.js",
   "scripts": {
     "all": "run-s lint test",
